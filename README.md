@@ -1,5 +1,6 @@
 ## Hi there 👋
 <img width="1024" height="1536" alt="Copilot_20260404_172328" src="https://github.com/user-attachments/assets/8ffca6eb-2cae-4fde-99b1-a89e7d7a8e33" />
+- 🌱 I’m currently learning UX-UI
 
 <!--
 **Yanker24/yanker24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
